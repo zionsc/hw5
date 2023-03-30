@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/codio/workspace/hw5/hw5_tests/schedwork_tests/schedwork-tests.cpp
+gtest/gtest.h
+-
+set
+-
+iostream
+-
+sstream
+-
+algorithm
+-
+schedwork.h
+/home/codio/workspace/hw5/hw5_tests/schedwork_tests/schedwork.h
+
+/home/codio/workspace/hw5/schedwork.h
+vector
+-
+
